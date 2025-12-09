@@ -1,4 +1,4 @@
-pename: eShopOnWeb Build and Test
+opename: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
 on: workflow_dispatch
